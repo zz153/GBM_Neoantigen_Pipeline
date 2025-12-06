@@ -1,0 +1,25 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+type: software
+title: "GBM Neoantigen Discovery Pipeline"
+abstract: "Rapid neoantigen discovery in IDH-wildtype glioblastoma through targeted sequencing of recurrently mutated genes"
+authors:
+  - family-names: "Rana"
+    given-names: "Zohaib"
+    orcid: "https://orcid.org/0000-0000-0000-0000"
+    affiliation: "University of Otago"
+    email: "zohaib.rana@otago.ac.nz"
+repository-code: "https://github.com/zz153/GBM_Neoantigen_Pipeline"
+url: "https://github.com/zz153/GBM_Neoantigen_Pipeline"
+keywords:
+  - glioblastoma
+  - neoantigens
+  - bioinformatics
+  - cancer-genomics
+  - immunotherapy
+  - NetMHCpan
+  - TCGA
+  - R
+license: MIT
+version: 1.0.0
+date-released: 2024-12-06
