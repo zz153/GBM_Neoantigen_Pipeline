@@ -1,0 +1,4 @@
+"Gene","Exons","Coding_bp","Patients_mutated","Pct_mutated","Patients_with_binders","Pct_with_binders","Total_neoantigens","Target_coverage","Clonality_detection"
+"TP53",11,1182,49,15.3,37,11.6,172,"500x","VAF > 0.4"
+"PTEN",9,1212,46,14.4,31,9.7,151,"500x","VAF > 0.4"
+"EGFR",28,3633,28,8.8,31,9.7,79,"500x","VAF > 0.4"

@@ -1,0 +1,29 @@
+# Large data files
+GDCdata/
+data/raw/*.rds
+data/raw/*.csv
+data/processed/*.csv
+results/netmhcpan_output/predictions.txt
+
+# R files
+.Rhistory
+.RData
+.Rproj.user
+*.Rproj
+
+# OS files
+.DS_Store
+Thumbs.db
+._*
+
+# Temporary files
+*~
+*.swp
+*.swo
+
+# Keep folder structure
+!.gitkeep
+!data/raw/.gitkeep
+!data/processed/.gitkeep
+!results/figures/.gitkeep
+!results/tables/.gitkeep

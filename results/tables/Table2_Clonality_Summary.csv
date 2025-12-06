@@ -1,0 +1,5 @@
+"Hugo_Symbol","n_mutations","n_patients","mean_VAF","median_VAF","n_clonal","pct_clonal"
+"TP53",102,63,0.525,0.481,67,65.7
+"PTEN",94,72,0.477,0.501,62,66
+"EGFR",103,58,0.413,0.253,42,40.8
+"NF1",33,23,0.325,0.273,10,30.3

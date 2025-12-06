@@ -1,0 +1,3 @@
+"Approach","Sequencing_time_days","Bioinformatics_days","Peptide_synthesis_days","Total_weeks","Sequencing_cost","Manufacturing_cost","Total_cost","Coverage_percent"
+"Whole Exome Sequencing",21,14,56,13,5000,175000,180000,100
+"Targeted 3-Gene Panel",5,2,14,3,500,19500,20000,27.2
