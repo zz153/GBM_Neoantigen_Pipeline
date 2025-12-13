@@ -1,0 +1,42 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+type: software
+title: "GBM Neoantigen Pipeline: Computational Identification of Clonal Neoantigens in IDH-Wildtype Glioblastoma"
+version: 1.0.0
+date-released: 2024-12-13
+authors:
+  - family-names: "Rana"
+    given-names: "Zohaib"
+    orcid: "https://orcid.org/0000-0002-5171-501X"
+    email: "zohaib.rana@otago.ac.nz"
+    affiliation: "Department of Biochemistry, University of Otago"
+repository-code: "https://github.com/zz153/GBM_Neoantigen_Pipeline"
+url: "https://github.com/zz153/GBM_Neoantigen_Pipeline"
+abstract: |
+  A data-driven computational pipeline for identifying evolutionarily stable
+  neoantigen targets in IDH-wildtype glioblastoma through integrated genomic
+  filtering and HLA prediction. The pipeline filters somatic mutations based
+  on clonality (VAF > 0.4), expression (TPM > 10), and frequency (≥10 patients),
+  then predicts HLA class I and class II binding using NetMHCpan tools.
+keywords:
+  - glioblastoma
+  - neoantigens
+  - immunotherapy
+  - HLA prediction
+  - tumor evolution
+  - clonality
+  - cancer genomics
+  - bioinformatics
+  - NetMHCpan
+  - TCGA
+license: MIT
+preferred-citation:
+  type: article
+  authors:
+    - family-names: "Rana"
+      given-names: "Zohaib"
+      orcid: "https://orcid.org/0000-0002-5171-501X"
+  title: "Computational Identification of Clonal Neoantigens in IDH-Wildtype Glioblastoma Through Integrated Genomic Filtering and HLA Prediction"
+  year: 2024
+  journal: "bioRxiv"
+  doi: "10.1101/YYYY.MM.DD.XXXXXX"  # Update with actual DOI after bioRxiv submission

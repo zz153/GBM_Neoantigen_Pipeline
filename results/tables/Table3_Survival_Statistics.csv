@@ -1,0 +1,4 @@
+"Gene","N_mutated","N_wildtype","Median_OS_mutated","Median_OS_wildtype","P_value","Significant"
+"TP53",86,236,13,12.7,0.0282,"Yes"
+"PTEN",95,227,12.9,12.9,0.551,"No"
+"EGFR",83,239,13.8,12.6,0.499,"No"
