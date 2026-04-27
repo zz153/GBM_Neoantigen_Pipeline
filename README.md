@@ -1,6 +1,6 @@
 # Computational Identification of Clonal Neoantigens in IDH-Wildtype Glioblastoma
 
-[![bioRxiv](https://img.shields.io/badge/bioRxiv-preprint-blue)](https://www.biorxiv.org/)
+[![Research Square](https://img.shields.io/badge/Research%20Square-preprint-blue)](https://doi.org/10.21203/rs.3.rs-8351369/v1)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![R](https://img.shields.io/badge/R-%3E%3D4.3.0-blue)](https://www.r-project.org/)
 
@@ -53,7 +53,7 @@ recount3
 
 ```bash
 # Clone repository
-git clone https://github.com/yourusername/GBM_Neoantigen_Pipeline.git
+git clone https://github.com/zz153/GBM_Neoantigen_Pipeline.git
 cd GBM_Neoantigen_Pipeline
 
 # Install R dependencies
@@ -264,13 +264,13 @@ If you use this pipeline, please cite:
 @article{rana2024clonal,
   title={Computational Identification of Clonal Neoantigens in IDH-Wildtype Glioblastoma Through Integrated Genomic Filtering and HLA Prediction},
   author={Rana, Zohaib},
-  journal={bioRxiv},
-  year={2024},
-  doi={10.1101/YYYY.MM.DD.XXXXXX}
+  journal={Research Square},
+  year={2025},
+  doi={10.21203/rs.3.rs-8351369/v1}
 }
 ```
 
-**Preprint**: [bioRxiv DOI](https://www.biorxiv.org/)  
+**Preprint**: [Research Square](https://doi.org/10.21203/rs.3.rs-8351369/v1)  
 **Contact**: zohaib.rana@otago.ac.nz
 
 ---
@@ -336,7 +336,7 @@ This project is licensed under the **MIT License** - see [LICENSE](LICENSE) file
 
 ## 📞 Support
 
-- **Issues**: [GitHub Issues](https://github.com/yourusername/GBM_Neoantigen_Pipeline/issues)
+- **Issues**: [GitHub Issues](https://github.com/zz153/GBM_Neoantigen_Pipeline/issues)
 - **Email**: zohaib.rana@otago.ac.nz
 - **ORCID**: [0000-0002-5171-501X](https://orcid.org/0000-0002-5171-501X)
 
